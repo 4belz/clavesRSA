@@ -26,30 +26,32 @@ sh
 Copiar código
 cd clavesRSA
 Asegúrate de tener Python 3.x instalado en tu sistema.
-🚀 Uso
+
+## 🚀 Uso
 Generar Claves RSA
 Ejecuta el script generador_claves_rsa.py para generar una clave pública y una clave privada:
-sh
-Copiar código
+
 python generador_claves_rsa.py
+
 Esto imprimirá en la terminal las claves pública y privada generadas.
+
 Encriptar un Mensaje
+
 Ejecuta el script encriptar_mensaje.py:
-sh
-Copiar código
-python encriptar_mensaje.py
+
 Introduce el mensaje que deseas encriptar cuando se te pida.
 Introduce la clave pública en el formato (e, n), por ejemplo (135, 125).
 El mensaje encriptado se mostrará en la terminal.
+
 Desencriptar un Mensaje
 Ejecuta el script desencriptar_mensaje.py:
-sh
-Copiar código
 python desencriptar_mensaje.py
 Introduce el mensaje encriptado en formato de lista, por ejemplo [456, 45, 454, 687].
 Introduce la clave privada en el formato (d, n), por ejemplo (135, 125).
 El mensaje desencriptado se mostrará en la terminal.
-📝 Ejemplos
+
+## 📝 Ejemplos
+
 Generar Claves
 sh
 Copiar código
@@ -91,7 +93,9 @@ Salida esperada:
 css
 Copiar código
 El mensaje desencriptado sería: Hola
-🤝 Contribuciones
+
+## 🤝 Contribuciones
+
 ¡Contribuciones son bienvenidas! Siéntete libre de abrir issues y enviar pull requests. Para grandes cambios, por favor abre un issue primero para discutir lo que te gustaría cambiar.
 
 Haz un fork del proyecto.
@@ -99,13 +103,18 @@ Crea una rama con tu nueva funcionalidad (git checkout -b mi-nueva-funcionalidad
 Haz commit de tus cambios (git commit -am 'Añadí mi nueva funcionalidad').
 Haz push a la rama (git push origin mi-nueva-funcionalidad).
 Abre un Pull Request.
-📜 Licencia
+
+## 📜 Licencia
+
 Este proyecto está licenciado bajo la Licencia MIT - mira el archivo LICENSE para más detalles.
 
-✍️ Autores
+## ✍️ Autores
+
 BelDev4 - Trabajo inicial
-🖥️ Requisitos del sistema
+
+## 🖥️ Requisitos del sistema
 Sistema Operativo: Windows, macOS, Linux.
 Python 3.10
-📬 Contacto
+
+## 📬 Contacto
 Si tienes alguna pregunta, no dudes en abrir un issue o contactar a los autores del proyecto.
