@@ -20,11 +20,11 @@ Para utilizar este proyecto, sigue estos pasos:
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tu_usuario/generador_encriptador_rsa.git
+   git clone https://github.com/beldev4/clavesRSA.git
 Navega al directorio del proyecto:
 sh
 Copiar código
-cd generador_encriptador_rsa
+cd clavesRSA
 Asegúrate de tener Python 3.x instalado en tu sistema.
 🚀 Uso
 Generar Claves RSA
