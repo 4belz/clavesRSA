@@ -20,7 +20,7 @@ Para utilizar este proyecto, sigue estos pasos:
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/beldev4/clavesRSA.git
+   git clone https://github.com/4belz/clavesRSA.git
 Navega al directorio del proyecto:
 sh
 Copiar código
@@ -110,7 +110,7 @@ Este proyecto está licenciado bajo la Licencia MIT - mira el archivo LICENSE pa
 
 ## ✍️ Autores
 
-BelDev4 - Trabajo inicial
+4belz - Trabajo inicial
 
 ## 🖥️ Requisitos del sistema
 Sistema Operativo: Windows, macOS, Linux.
